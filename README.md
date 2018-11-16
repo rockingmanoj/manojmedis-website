@@ -1,2 +1,2 @@
-# manojmedis-website
-its a website where i have used animations
+# SIMPLE DESIGN FOR STARTUP SITE
+its a website where i have used ONLY HTML AND CSS  AND NOT ANY OTHER FRAMEWORKS
